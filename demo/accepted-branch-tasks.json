@@ -1,0 +1,21 @@
+{
+  "status": "accepted",
+  "accepted_on": "2026-10-26",
+  "authority": "Workflow owner in this conversation",
+  "source": "User reply: Approve all six task meanings",
+  "scope": "Six synthetic branch fixture meanings; exploratory live comparisons within shared $150 cap",
+  "shared_budget_usd": 150,
+  "case_hashes": {
+    "normal": "0a51ec3028b7051f4f6641b36f27371ec7294b50f799969c123c4531623ce111",
+    "collision": "3f5eb9ef5d872116a49da5d92acdf47a2131d193a2c1ae88202ac4acf9f0d452",
+    "dirty": "9fc7eb084e5a1b86ed1218d2d874b68f47cce133cff392e20e719930def96d35",
+    "ambiguous": "8aedcef54e59dbca92410aba0d18c9d03fe520e73747cf9ee810720b9bdc243d",
+    "explicit-base": "4c02615396513813e333bca0805a6e7d35e1f34c0bf99d6d737e59f6198856ca",
+    "plan-only": "ff331bf1a80736879bfe5ac8a740bab722348e962c28c0b1c92483c7e8e72cfb"
+  },
+  "limitations": [
+    "No release approval",
+    "No independent judge calibration",
+    "No held-out confirmation claim"
+  ]
+}
